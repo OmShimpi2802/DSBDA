@@ -1,0 +1,25 @@
+1d
+-rows = age
+
+2D
+- column=occupation , row=age
+- income colour , race label
+
+3D
+- column=occupation , martial status, row=age
+- race colour
+
+Time
+- column=occupation , row= hour per week
+- income colour
+
+Tree
+- column=age , row= income , occupation
+- occupation label
+
+Network
+-Adult_NW1.csv
+- coloum =line x , row = line y , circle y
+- line Y= measure name color , relationship detail
+- circle Y=  node color , label , relationship label
+- circle Y = dual axis , dimension
